@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/mcp/commit/9a7861472272a1f47449b17ac2d19e87d16fa870",
       "git:hexsha": "9a7861472272a1f47449b17ac2d19e87d16fa870",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T18:19:10.620784+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/mcp/commit/d28286676f66a101f0b0926bca6e98e42466f663",
